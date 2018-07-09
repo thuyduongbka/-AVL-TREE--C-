@@ -1,0 +1,210 @@
+area:Khu vuc
+arm:Canh tay
+age:Tuoi tac
+baby:Dua be
+back:Tro lai
+bad:Toi te
+bag:Tui, cap
+ball:Qua bong
+bank:Ngan hang
+bar:Quan ba
+bed:Tro nen, tro thanh
+beer:Bia
+begin:Bat dau
+big:To, lon
+bike:Xe dap
+bus:Xe buyt
+cake:Banh
+car:O to
+chat:Noi chuyen
+clean:Sach se, gon gang
+cry:Khoc loc
+cup:Tach, coc
+cut:Cat
+dance:Nhay mua
+dark:Toi, bong dem
+day:Ngay
+deal:Thoa thuan
+deep:Sau
+degree:Trinh do
+delay:Cham tre
+drop:Roi vai
+dry:Kho
+east:Huong Dong
+kiss:Hon
+hello:Xin chao
+bye:Tam biet
+easy:Som
+hug:Om ap
+eat:An
+enjoy:Thuong thuc, thich thu
+enter:Di vao
+eye:Mat
+face:Mat
+fact:Thuc te
+false:Sai
+feel:Cam thay
+fit:Phu hop
+fix:Sua chua
+fly:Bay
+fun:Vui ve
+game:Tro choi
+go:Di
+good:Tot
+guitar:Dan ghi ta
+habit:Thoi quen
+hair:Toc
+hand:Tay
+hat:Cai mu
+hate:Ghet
+have:Co
+head:Dau
+healt:Suc khoe
+help:Giup do
+hire:Thue
+history:Lich su
+hurry:Voi vang
+jacket:Ao khoac
+job:Viec lam
+join:Tham gia
+ice:Nuoc da
+island:Dao
+kill:Giet chet
+kitchen:Phong bep
+knowledge:Kien thuc
+lab:Phong thi nghiem
+lake:Ho
+leg:Chan
+lip:Moi
+list:Danh sach
+listen:Nghe
+live:Truc tiep
+local:Dia phuong
+lunch:Bua trua
+machine:May moc
+mail:Thu
+main:Chu yeu
+major:Chinh
+make:Che tao
+male:Nam gioi
+man:Dan ong
+menu:Thuc don
+mess:Lon xon
+method:Phuong phap
+move:Di chuyen
+movie:Phim
+music:Am nhac
+nail:Mong tay
+name:Ten
+nation:Quoc gia
+never:Khong bao gio
+noise:Tieng on
+normal:Binh thuong
+nose:Mui
+note:Chu thich
+nurse:Y ta
+occur:Xay ra
+ok:Duoc
+old:Cu, gia
+pace:Toc do
+page:Trang
+paper:Giay
+party:Buoi tiec
+pass:Vuot qua
+pause:Tam dung
+pay:Tra
+peace:Hoa binh
+people:Con nguoi
+photo:Hinh anh
+piano:Dan piano
+picture:Hinh anh
+plan:Ke hoach
+plane:May bay
+play:Choi
+poem:Bai tho
+poor:Ngheo nan
+quick:Nhanh chong
+quiet:Yen tinh
+quit:Thoai
+quote:Trich dan
+rain:Mua
+raise:Nang cao
+read:Doc
+ready:San sang
+real:Thuc
+red:Mau do
+regret:Hoi tiec
+relax:Thu gian
+rich:Giau co
+rip:Yen nghi
+room:Phong
+royal:Hoang toc
+sad:Buon
+love:Yeu thuong
+like:Thich
+same:Giong
+say:Noi
+see:Nhin
+ship:Tau
+sky:Bau troi
+sleep:Ngu
+slow:Cham chap
+snow:Tuyet
+son:Con trai
+song:Bai hat
+soon:Som
+study:Hoc
+stuff:Do dac
+stupid:Ngoc nghech
+style:Phong cach
+summer:Mua he
+sun:Mat troi
+sweet:Ngot
+swim:Boi
+talk:Noi chuyen
+tall:Cao
+tea:Tra
+test:Kiem tra
+text:Van ban
+thin:Gay
+thanks:Cam on
+sorry:Xin loi
+think:Suy nghi
+try:Thu, Co gang
+up:Len
+upper:Phia tren
+use:Su dung
+very:Rat
+video:Video
+view:Luot xem
+visit:Chuyen tham
+walk:Di bo
+wall:Tuong
+want:Muon
+war:Chien tranh
+warm:Am ap
+way:Duong
+wild:Hoang da
+win:Chien thang
+wind:Gio
+window:Cua so
+woman:Phu nu
+wrong:Sai
+yard:San
+year:Nan
+yellow:Mau vang
+yesterday:Hom qua
+young:Tre
+youth:Thieu nien
+zone:Vung
+
+
+
+
+
+
+
+
+
+
+
